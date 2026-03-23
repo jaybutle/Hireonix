@@ -297,4 +297,4 @@ For issues or suggestions, please contact the development team.
 
 ---
 
-**Built with ❤️ for students preparing for placements**
+**Built with ❤️. for students preparing for placements**
